@@ -1,2 +1,5 @@
 # Linux-Lite_OS
-Linux LIte OS - Bisrat Ayalew
+Bisrat Ayalew | BDU1601168
+installation
+
+
